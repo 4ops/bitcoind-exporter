@@ -2,13 +2,12 @@
 .DS_Store
 
 # Binaries for programs and plugins
+/bin
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
-/exporter
-/bitcoind-exporter
 
 # Test binary, build with `go test -c`
 *.test
